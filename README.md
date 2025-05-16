@@ -13,9 +13,8 @@ This is a simple and clean HTML/CSS website that explores **how Artificial Intel
 ## 🚀 How to View
 
 Visit the live website here:
-`https://dlozf.github.io/csci1101/`
+[`https://dlozf.github.io/csci1101/`](https://dlozf.github.io/Website-1101/)
 
-> Replace with your actual GitHub username and repo name!
 
 ## 🛠️ Technologies Used
 
@@ -30,4 +29,4 @@ Visit the live website here:
 
 ## ✍️ Author
 
-Created by \Diego Lozano for a web development class project in 2025.
+Created by \[Diego Lozano] for a web development class project in 2025.
