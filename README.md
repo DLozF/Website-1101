@@ -30,4 +30,4 @@ Visit the live website here:
 
 ## ✍️ Author
 
-Created by \[Diego Lozano] for a web development class project in 2025.
+Created by \Diego Lozano for a web development class project in 2025.
