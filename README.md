@@ -25,7 +25,7 @@ Visit the live website here:
 ## 📁 Files Included
 
 * `index.html` – Main website file
-* Images folder with 5 educational illustrations
+* 5 educational illustrations
 
 ## ✍️ Author
 
